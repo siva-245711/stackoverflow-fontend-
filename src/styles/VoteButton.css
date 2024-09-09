@@ -1,0 +1,11 @@
+/* General styles for the vote button */
+button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+button:hover {
+    opacity: 0.7;
+}
